@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Julian\\Desktop\\WebApp\\Julianbetaweb\\JulianbetaWeb.csproj": {}
+    "C:\\Users\\Julian\\Desktop\\WebApp\\julianbetaweb\\JulianbetaWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Julian\\Desktop\\WebApp\\Julianbetaweb\\JulianbetaWeb.csproj": {
+    "C:\\Users\\Julian\\Desktop\\WebApp\\julianbetaweb\\JulianbetaWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julian\\Desktop\\WebApp\\Julianbetaweb\\JulianbetaWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Julian\\Desktop\\WebApp\\julianbetaweb\\JulianbetaWeb.csproj",
         "projectName": "JulianbetaWeb",
-        "projectPath": "C:\\Users\\Julian\\Desktop\\WebApp\\Julianbetaweb\\JulianbetaWeb.csproj",
+        "projectPath": "C:\\Users\\Julian\\Desktop\\WebApp\\julianbetaweb\\JulianbetaWeb.csproj",
         "packagesPath": "C:\\Users\\Julian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julian\\Desktop\\WebApp\\Julianbetaweb\\obj\\",
+        "outputPath": "C:\\Users\\Julian\\Desktop\\WebApp\\julianbetaweb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
